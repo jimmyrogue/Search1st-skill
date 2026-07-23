@@ -1,0 +1,4 @@
+interface:
+  display_name: "Search First"
+  short_description: "Research mature solutions before building from scratch"
+  default_prompt: "Use $search-first to research mature solutions before implementing this request."
